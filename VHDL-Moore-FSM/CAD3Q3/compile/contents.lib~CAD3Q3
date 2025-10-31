@@ -1,0 +1,6 @@
+17
+~E 1 "../src/StateMechine.vhd" 28 FSM
+~A 1 "../src/StateMechine.vhd" 38 Arch
+~E 1 "../src/TestBench/fsm_TB.vhd" 6 fsm_tb
+~A 1 "../src/TestBench/fsm_TB.vhd" 9 TB_ARCHITECTURE
+~C 1 "../src/TestBench/fsm_TB.vhd" 68 testbench_for_fsm
